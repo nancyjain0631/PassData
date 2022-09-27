@@ -22,6 +22,5 @@ class ViewController: UIViewController {
         sec.strEmail = emailField.text
         self.navigationController?.pushViewController(sec, animated: true)
     }
-    
 }
 

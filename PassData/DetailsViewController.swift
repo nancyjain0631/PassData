@@ -14,6 +14,7 @@ class DetailsViewController: UIViewController {
     
     var strName: String! = nil
     var strEmail: String! = nil
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         nameLabel.text = strName
